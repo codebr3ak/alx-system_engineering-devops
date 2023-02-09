@@ -1,5 +1,2 @@
-#!/usr/bin/env bash
-# list all my currently running processes
-
-# source: https://linuxize.com/post/ps-command-in-linux/
-ps -auxf
+#!/usr/bin/env ruby
+puts ARGV[0].scan(/hbt{2,5}n/).join
