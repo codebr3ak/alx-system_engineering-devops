@@ -64,7 +64,7 @@ Quiz questions
 
 **Great!** You've completed the quiz successfully! Keep going! (Show quiz)
 
-Your servers
+Your servers (Connect the servers with the intranet account to pass the checks ...)
 ------------
 
 | Name | Username | IP | State |  |
@@ -82,7 +82,6 @@ Actions Toggle Dropdown
 | 1733-lb-01 | `ubuntu` | `34.231.109.143` | running |
 
 Actions Toggle Dropdown
-
  |
 
 Tasks
