@@ -159,7 +159,7 @@ sylvain@ubuntu$
 
  Done? Help Check your code Ask for a new correction Get a sandbox QA Review
 
-### 1\. HAproxy SSL termination
+~### 1\. HAproxy SSL termination
 
 mandatory
 
