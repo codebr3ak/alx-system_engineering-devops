@@ -1,7 +1,7 @@
 0x0B. SSH
 =========
 
--   By Sylvain Kalache
+-   By RB
 -   Weight: 1
 
 Background Context
@@ -58,7 +58,6 @@ At the end of this project, you are expected to be able to [explain to anyone](
 
 Requirements
 ------------
-
 ### General
 
 -   Allowed editors: `vi`, `vim`, `emacs`

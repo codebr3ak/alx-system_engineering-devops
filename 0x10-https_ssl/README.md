@@ -150,8 +150,7 @@ The subdomain web-02 is a A record and points to 54.89.38.100
 sylvain@ubuntu$
 
 ```
-
-**Repo:**
+**Repository:**
 
 -   GitHub repository: `alx-system_engineering-devops`
 -   Directory: `0x10-https_ssl`
