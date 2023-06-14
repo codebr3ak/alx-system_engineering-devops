@@ -323,7 +323,7 @@ Requirements:
 
 Example:
 
-Buana mm hii webeerver inaleta shida buana!
+Buana mm hii webserver inaleta shida buana!
 ```
 sylvain@ubuntu$ curl -sI 34.198.248.145/redirect_me/
 HTTP/1.1 301 Moved Permanently
