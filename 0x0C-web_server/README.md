@@ -6,7 +6,6 @@
 
 Concepts
 --------
-
 *For this project, students are expected to look at this concept:*
 
 -   [What is a Child Process?](https://alx-intranet.hbtn.io/concepts/110)
@@ -89,7 +88,7 @@ At the end of this project, you are expected to be able to [explain to anyone](
 ### DNS
 
 -   What DNS stands for
--   What is DNS main role
+?-   What is DNS main role
 
 ### DNS Record Types
 
@@ -324,6 +323,7 @@ Requirements:
 
 Example:
 
+Buana mm hii webeerver inaleta shida buana!
 ```
 sylvain@ubuntu$ curl -sI 34.198.248.145/redirect_me/
 HTTP/1.1 301 Moved Permanently
