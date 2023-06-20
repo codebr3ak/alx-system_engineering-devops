@@ -4,3 +4,6 @@
 
 # Configuration management and webserver
 
+# Loop Conditions and parsing 
+
+
